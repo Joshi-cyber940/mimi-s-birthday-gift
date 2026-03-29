@@ -1,0 +1,48 @@
+body{
+background-color: pink;
+height: 1200px;
+}
+.header{
+  position: fixed;
+   display: flex;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(224, 224, 59);
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10px;
+}
+section{
+    position: ab
+}
+.container{
+  margin-top: 65px;
+}
+video{
+  width: 320;
+  height: 240;
+}
+img{
+  margin-top: 30px;
+  height: 100%;
+  width: 100%;
+}
+.button{
+  display: flex;
+  justify-content: right;
+  margin-top: 100px;
+ margin-right: 10px;
+}
+button{
+  padding: 7px 17px;
+  background-color:  rgb(224, 224, 59);
+  border-radius: 20px;
+  border: 1px solid rgb(214, 78, 101) ;
+}
